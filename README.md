@@ -35,7 +35,7 @@ Log in and click on the <+> button , enter the title and text and finally save. 
 
 Note: To deploy to pythonanywhere, you should push your code to github
 
-Create your pythonanywhere beginner account at www.pythonanywhere.com\
+Create your pythonanywhere beginner account at www.pythonanywhere.com
 While at your dashboard, navigate to account and click create a new API token\
 Go back to pythonanywhere dashboard then choose start a "Bash" console\
 At the pythonanywhere commandlile type this command: $ pip3.6 install -- user pythonanywhere\
