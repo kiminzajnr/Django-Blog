@@ -1,11 +1,11 @@
 #Setup
 
 in a python virtual environment, run:\
--: $ pip install -r requirements.txt
--: $ python3 manage.py makemigrations blog
--: $ python3 manage.py migrate blog
--: $ python3 manage.py createsuperuser == To create user that you'll use to log in
-Note: To activate the virtual environment cd into the directory then type $ source myvenv/bin/activate
+-: $ pip install -r requirements.txt\
+-: $ python3 manage.py makemigrations blog\
+-: $ python3 manage.py migrate blog\
+-: $ python3 manage.py createsuperuser == To create user that you'll use to log in\
+Note: To activate the virtual environment cd into the directory then type $ source myvenv/bin/activate\
 
 
 #Running the application
